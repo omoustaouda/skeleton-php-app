@@ -15,7 +15,7 @@ $dotEnv->load();
 const APP_NAME = 'base-app';
 define(
     'APP_ROOT',
-    dirname(__DIR__ . '/..') . '/'
+    dirname(__DIR__, 1) . '/'
 );
 const LOG_FILE_PATH = APP_ROOT . 'logs/app.log';
 
