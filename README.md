@@ -1,7 +1,6 @@
 [![Build Status](https://travis-ci.com/omoustaouda/skeleton-php-app-base.svg?branch=main)](https://travis-ci.com/omoustaouda/skeleton-php-app-base)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/9397880447ea4a163aa2/test_coverage)](https://codeclimate.com/github/omoustaouda/skeleton-php-app-base/test_coverage)
-[![Maintainability](https://api.codeclimate.com/v1/badges/9397880447ea4a163aa2/maintainability)](https://codeclimate.com/github/omoustaouda/skeleton-php-app-base/maintainability)
-
+[![Test Coverage](https://api.codeclimate.com/v1/badges/48849df0a9497430a30f/test_coverage)](https://codeclimate.com/github/omoustaouda/skeleton-php-app-base/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/48849df0a9497430a30f/maintainability)](https://codeclimate.com/github/omoustaouda/skeleton-php-app-base/maintainability)
 
 # Base PHP app template
 
